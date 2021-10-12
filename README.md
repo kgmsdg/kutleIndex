@@ -1,0 +1,2 @@
+# kutleIndex
+Kütle indexi hesabı
